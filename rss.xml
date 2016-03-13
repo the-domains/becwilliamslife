@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[becwilliamslife]]></title>
         <description><![CDATA[becwilliamslife]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/becwilliamslife/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 12:01:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Mar 2016 12:09:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/becwilliamslife/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c2305d9-bbcc-44b3-91b3-6e15e7c755e2.jpg">]]></description>
+            <link>https://thegrid.ai/becwilliamslife/382f6375-a162-4cbd-a980-850c9434f29e/index.html</link>
+            <guid isPermaLink="false">382f6375-a162-4cbd-a980-850c9434f29e</guid>
+            <pubDate>Sun, 13 Mar 2016 12:09:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa827171-4e07-4374-8a6e-61970e128404.jpg">]]></description>
-            <link>undefineda898a390-05c0-487c-8143-1317dd2f1aed/index.html</link>
+            <link>https://thegrid.ai/becwilliamslife/a898a390-05c0-487c-8143-1317dd2f1aed/index.html</link>
             <guid isPermaLink="false">a898a390-05c0-487c-8143-1317dd2f1aed</guid>
             <pubDate>Sun, 13 Mar 2016 11:59:25 GMT</pubDate>
         </item>
